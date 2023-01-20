@@ -1,0 +1,2 @@
+# Overview
+This folder was largely created by the Data Science team at Operam during 2016-2019, where we used tracking data combined with TMDB.com scrapes to compile a training data set for box office prediction. 
